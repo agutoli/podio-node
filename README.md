@@ -5,6 +5,10 @@ Podio
 
 This is the unofficial Node client for accessing the Podio API. 
 
+Documentation
+-------
+http://agutoli.github.io/podio-node/
+
 Version
 -------
 
