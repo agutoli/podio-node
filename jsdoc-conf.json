@@ -1,0 +1,8 @@
+{
+  "templates": {
+      "systemName"      : "Podio Node Client",
+      "footer"          : "This is the unofficial Node client for accessing the Podio API.", 
+      "copyright"       : "",     //"navType"         : "vertical",
+      "linenums"        : true
+  }
+}
